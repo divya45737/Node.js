@@ -1,0 +1,7 @@
+POST http://localhost:3000/cards
+Content-Type: application/json
+
+{
+  "suit": "Hearts",
+  "value": "Queen"
+}
